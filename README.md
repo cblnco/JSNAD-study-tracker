@@ -1,2 +1,2 @@
 # JSNAD-study-tracker
-JSNAD Certification Study tracker.
+JSNAD Certification Study Tracker.
