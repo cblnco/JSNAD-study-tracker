@@ -10,8 +10,8 @@ Taken from: [The Linux Foundation Training](https://training.linuxfoundation.org
 
 - [ ] Node.js Buffer API’s
 - [ ] Incremental Processing
-- [ ]Transforming Data
-- [ ]Connecting Streams
+- [ ] Transforming Data
+- [ ] Connecting Streams
 
 ### Control flow 12 %
 - [ ] Managing asynchronous operations
