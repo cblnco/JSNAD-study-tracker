@@ -13,7 +13,7 @@ Taken from: [The Linux Foundation Training](https://training.linuxfoundation.org
 - [ ] Transforming Data
 - [ ] Connecting Streams
 
-### Control flow 12 %
+### Control flow - 12 %
 - [ ] Managing asynchronous operations
 - [ ] Control flow abstractions
 
@@ -60,3 +60,10 @@ Taken from: [The Linux Foundation Training](https://training.linuxfoundation.org
 - [ ] Using assertions
 - [ ] Testing synchronous code
 - [ ] Testing asynchronous code
+
+<br />
+
+# Useful resources
+
+* [hey(node) certification guide](https://www.nodecertification.com/)
+* [NodeSchool Workshops](https://nodeschool.io/es/#workshopper-list) (stream-adventure, promise it won't hurt, etc)
