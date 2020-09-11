@@ -1,3 +1,5 @@
+// Exercise to verify how errors can be handled usin the pipe method.
+
 const { PassThrough } = require('stream');
 
 const passThrough = new PassThrough();

@@ -1,3 +1,5 @@
+// Exercise to handle error with the pipeline method.
+
 const { PassThrough, pipeline } = require('stream');
 const fs = require('fs');
 
