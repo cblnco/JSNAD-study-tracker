@@ -14,7 +14,7 @@ const removeSpace = new Transform({
   }
 });
 
-const readFile = fs.createReadStream('./lorem.txt');
+const readFile = fs.createReadStream('./txt/lorem.txt');
 
 readFile
   .pipe(allCaps)

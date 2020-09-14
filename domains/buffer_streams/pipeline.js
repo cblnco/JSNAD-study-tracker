@@ -3,8 +3,8 @@
 const { PassThrough, pipeline } = require('stream');
 const fs = require('fs');
 
-const input = fs.createReadStream('file.txt');
-const output = fs.createWriteStream('out.txt');
+const input = fs.createReadStream('./txt/file.txt');
+const output = fs.createWriteStream('./txt/out.txt');
 
 const passThrough = new PassThrough();
 

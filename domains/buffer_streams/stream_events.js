@@ -14,7 +14,7 @@ const replaceWithUnderscore = new Transform({
   }
 });
 
-const readStream = fs.createReadStream('./lorem.txt');
+const readStream = fs.createReadStream('./txt/lorem.txt');
 
 // Use stream events instead of readStream.pipe(transformIntoLower).pipe(replaceWithUnderscore).pipe(process.stdout);
 // Read stream events.
