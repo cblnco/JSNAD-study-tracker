@@ -1,5 +1,4 @@
 const from2 = require('from2');
-const to2 = require('to2');
 
 const readableStream = from2(() => {
     readableStream.push(Buffer.from('Hello World'));
