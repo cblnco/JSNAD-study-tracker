@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "duplexify": "^4.1.1",
     "from2": "^2.3.0",
     "readable-stream": "^3.6.0",
     "to2": "^1.0.0"
