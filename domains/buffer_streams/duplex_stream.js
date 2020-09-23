@@ -20,3 +20,4 @@ const duplexStream = new Duplex({
 duplexStream.currentChar = 65;
 
 process.stdin.pipe(duplexStream).pipe(process.stdout);
+// process.stdin.pipe(duplexStream).pipe(duplexStream).pipe(process.stdout);
