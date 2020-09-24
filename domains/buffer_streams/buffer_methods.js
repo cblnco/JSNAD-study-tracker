@@ -23,4 +23,4 @@ for (const value of buffer.entries()) {
     array.push(value);
 }
 console.log('buffer.entries()');
-console.log(JSON.stringify(array.map(([key, value]) => [key, String.fromCharCode(value)]), null, 4));
+console.log(JSON.stringify(array.map(([key, value]) => [key, String.fromCharCode(value)])));
