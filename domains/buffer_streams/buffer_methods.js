@@ -1,5 +1,7 @@
 const buffer = Buffer.from('Hey there mate', 'utf-8');
 
+console.log('Buffer.from() bytes example:', Buffer.from([23, 34, 23, 45, '90']));
+
 let string = '';
 for (const value of buffer) {
     string += String.fromCharCode(value);
@@ -22,5 +24,4 @@ array = [];
 for (const value of buffer.entries()) {
     array.push(value);
 }
-console.log('buffer.entries()');
-console.log(JSON.stringify(array.map(([key, value]) => [key, String.fromCharCode(value)])));
+console.log('buffer.entries():', JSON.stringify(array.map(([key, value]) => [key, String.fromCharCode(value)])));
