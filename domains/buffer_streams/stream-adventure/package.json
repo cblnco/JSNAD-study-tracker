@@ -1,15 +1,15 @@
 {
   "name": "stream-adventure",
   "version": "1.0.0",
-  "description": "",
-  "main": "beep_boop.js",
+  "description": "Nodeschool stream-adventure solved exercises.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "jcarlos.kb@gmail.com",
+  "license": "MIT",
   "dependencies": {
+    "split2": "^3.2.2",
     "through2": "^4.0.2"
   }
 }
