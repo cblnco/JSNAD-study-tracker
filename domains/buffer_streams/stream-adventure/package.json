@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Nodeschool stream-adventure solved exercises.",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "verify": "stream-adventure verify"
   },
   "keywords": [],
   "author": "jcarlos.kb@gmail.com",
@@ -13,6 +13,7 @@
     "duplexer2": "^0.1.4",
     "split2": "^3.2.2",
     "stream-combiner": "^0.2.2",
+    "tar": "^6.0.5",
     "through2": "^4.0.2",
     "trumpet": "^1.7.2",
     "ws": "^7.3.1"
