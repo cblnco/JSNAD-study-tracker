@@ -12,6 +12,7 @@
     "concat-stream": "^2.0.0",
     "duplexer2": "^0.1.4",
     "split2": "^3.2.2",
+    "stream-combiner": "^0.2.2",
     "through2": "^4.0.2",
     "trumpet": "^1.7.2",
     "ws": "^7.3.1"
