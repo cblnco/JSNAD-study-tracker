@@ -6,7 +6,7 @@ A personal study repository with mutiple NodeJS exercises to prepare for JSNAD C
 # JSNAD Domains & Competencies
 Taken from: [The Linux Foundation Training](https://training.linuxfoundation.org/certification/jsnAd/).
 
-### Buffer and Streams - 11% ✔️
+### Buffer and Streams - 11%  ✔️
 
 - [x] Node.js Buffer API’s
 - [x] Incremental Processing
