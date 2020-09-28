@@ -15,7 +15,7 @@ pipeline(input, passThrough, output, (err) => {
     console.log('The pipeline has encountered an error.', err);
   }
   else {
-    console.log('Pipeline ended sucessfully');
+    console.log('Pipeline ended successfully');
   }
 });
 
