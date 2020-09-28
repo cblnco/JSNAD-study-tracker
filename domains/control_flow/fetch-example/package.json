@@ -8,7 +8,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "fetch": "node node_fetch.js"
+    "fetch": "node node_fetch.js",
+    "async": "node async_await.js"
   },
   "keywords": [],
   "author": "",
