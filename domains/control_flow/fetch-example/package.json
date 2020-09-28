@@ -1,0 +1,16 @@
+{
+  "name": "fetch-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "fetch": "node node_fetch.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
