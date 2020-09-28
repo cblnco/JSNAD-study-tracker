@@ -6,12 +6,12 @@ A personal study repository with mutiple NodeJS exercises to prepare for JSNAD C
 # JSNAD Domains & Competencies
 Taken from: [The Linux Foundation Training](https://training.linuxfoundation.org/certification/jsnAd/).
 
-### Buffer and Streams - 11%
+### Buffer and Streams - 11% ✔️
 
-- [ ] Node.js Buffer API’s
-- [ ] Incremental Processing
-- [ ] Transforming Data
-- [ ] Connecting Streams
+- [x] Node.js Buffer API’s
+- [x] Incremental Processing
+- [x] Transforming Data
+- [x] Connecting Streams
 
 ### Control flow - 12 %
 - [ ] Managing asynchronous operations
