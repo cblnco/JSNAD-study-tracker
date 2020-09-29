@@ -1,0 +1,15 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "Solved learnyounode exercises",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "learnyounode verify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "concat-stream": "^2.0.0"
+  }
+}
