@@ -1,0 +1,12 @@
+{
+  "name": "async-you",
+  "version": "1.0.0",
+  "description": "Solved async-you exercises from nodeschool",
+  "main": "index.js",
+  "scripts": {
+    "test": "async-you verify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
