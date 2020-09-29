@@ -5,7 +5,7 @@ function async(arg, callback) {
     }, 500);
 }
 
-const numbers = [3, 9, 1, 7, 4];
+const numbers = [3, 8, 1, 7, 4, 9];
 const results = [];
 const limit = 2;
 let running = 0;
