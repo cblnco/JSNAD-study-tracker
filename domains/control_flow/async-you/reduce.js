@@ -3,22 +3,22 @@ const async = require('async');
 const array = ['one', 'two', 'three'];
 
 
-function getReq(value, done) {
+function getReq(memo, value, done) {
     http.get(process.argv[2] + '?number=' + value, (res) => {
         let number = '';
         res.on('data', (data) => {
            number += data.toString();
         });
         res.on('end', () => {
-            done(null, Number(number));
+            done(null, memo + Number(number));
         });
     }).on('error', done);
 }
 
-async.map(array, getReq, (err, results) => {
+async.reduce(array, 0, getReq, (err, result) => {
    if (err) {
        console.error(err);
    } else {
-       console.log(results.reduce((result, value) => result + value));
+       console.log(result);
    }
 });
