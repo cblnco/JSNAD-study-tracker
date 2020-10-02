@@ -1,0 +1,16 @@
+{
+  "name": "promise-it-wont-hurt",
+  "version": "1.0.0",
+  "description": "Solved promise-it-wont-hurt exercises",
+  "main": "always_asynchronous.js",
+  "dependencies": {
+    "q-io": "^1.13.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "promise-it-wont-hurt verify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
