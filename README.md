@@ -13,7 +13,7 @@ Taken from: [The Linux Foundation Training](https://training.linuxfoundation.org
 - [x] Transforming Data
 - [x] Connecting Streams
 
-### Control flow - 12 %
+### Control flow - 12 %   ✔️
 - [ ] Managing asynchronous operations
 - [ ] Control flow abstractions
 
