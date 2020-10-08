@@ -14,12 +14,12 @@ Taken from: [The Linux Foundation Training](https://training.linuxfoundation.org
 - [x] Connecting Streams
 
 ### Control flow - 12 %   ✔️
-- [ ] Managing asynchronous operations
-- [ ] Control flow abstractions
+- [x] Managing asynchronous operations
+- [x] Control flow abstractions
 
-### Child Processes - 8%
-- [ ] Spawning or Executing child processes
-- [ ] Child process configuration
+### Child Processes - 8%   ✔️
+- [x] Spawning or Executing child processes
+- [x] Child process configuration
 
 ### Diagnostics - 6%
 - [ ] Debugging Node.js
