@@ -1,0 +1,1 @@
+module.exports = (age, gap) => `In ${gap} years you will be ${Number(age) + gap}<br>`;
