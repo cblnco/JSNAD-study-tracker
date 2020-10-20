@@ -8,4 +8,4 @@ app.get('/:age', (req, res) => {
   return res.send(past(req.params.age, 10) + future(req.params.future, 10));
 });
 
-app.listen(3000);
+app.listen(3000, () => console.log('Listening on port 3000.'));
